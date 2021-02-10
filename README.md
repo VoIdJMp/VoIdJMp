@@ -1,4 +1,4 @@
-<div style="display: inline-block; vertical-align: middle;">
+<div style="display: inline-block; vertical-align: top;">
   <a href="#" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidjmp" />
   </a>
